@@ -1,0 +1,14 @@
+a  
+{
+    text-decoration: none;
+}
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+.column img
+{
+    float: left;
+    width: 33%;
+}
